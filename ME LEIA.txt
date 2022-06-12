@@ -1,0 +1,21 @@
+FEITO PARA LIMPAR CACHE DO LINUX :D
+
+NÃO APAGA ARQUIVOS IMPORTANTES!!!!
+
+CASO ACONTEÇA ALGUM BUG, ME AVISE.    :D
+
+Feito pela Shitto [Criadora].
+
+Não esqueça de manter os Creditos.    ^^
+
+--------------------------------------------------------------------------------------------------------------------------
+
+-Em resumo, a memória cache é uma parte do processador (CPU) de computadores e dispositivos móveis.
+
+-Ele atua como uma memória temporária para que o chipset recupere rapidamente os dados.
+
+-Sem a necessidade de uma busca direta na memória principal (RAM).
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Ass: Shitto <3
